@@ -1,2 +1,2 @@
 # tensorflow_notebooks
-Jupyter notebook for the examples given on the TF docs + a dataset visualization function
+Jupyter notebooks for the examples on the TF docs. Run in a Python 3 env
